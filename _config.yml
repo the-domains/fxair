@@ -1,0 +1,28 @@
+name: FxAIR.org
+favicon: null
+layout_spectrum: 0.7316148972604424
+typography_spectrum: 0.025703854858875275
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.49657419766299427
+  lightness: 0.10597351286560297
+  saturation: 0.8170156725682318
+  rhythmicContrast: 0.5633587269112468
+purpose: []
